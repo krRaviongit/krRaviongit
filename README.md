@@ -1,6 +1,6 @@
 <h2 align="left">About me</h2>
 
-<h3 align="left">Hi 👋! My name is KUMAR RAVI and I'm a TECH ENTHUSIAST, from INDIA</h3>
+<h4 align="left">Hi 👋! My name is <b>Kumar Ravi</b> and I'm a<b>TECH ENTHUSIAST</b>, from India.</h4>
 
 ###
 
@@ -15,7 +15,7 @@
 
 
 ###
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages and Tools</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
