@@ -3,6 +3,7 @@
 <br><br>
 
 <h2 align="left">About me</h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Child%20Light%20Skin%20Tone.png" alt="Child Light Skin Tone" width="25" height="25" />
 
 <p align="left">My name is Kumar Ravi and I'm a Tech Enthusiast from India.</p>
 
