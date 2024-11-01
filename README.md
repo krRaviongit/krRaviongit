@@ -2,13 +2,13 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 <br><br>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Child%20Light%20Skin%20Tone.png" alt="Child Light Skin Tone" width="45" align="center"><span><b>About Me</b></span></h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Child%20Light%20Skin%20Tone.png" alt="Child Light Skin Tone" width="45" align="center"><span><b> About Me</b></span></h2>
 
 <p align="left">My name is Kumar Ravi and I'm a Tech Enthusiast from India.</p>
 
 
 ###
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"><span><b>Github Analytics</b></span></h2>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"><span><b> Github Analytics</b></span></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krRaviongit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krRaviongit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
