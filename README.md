@@ -39,7 +39,7 @@
   </div>
 
 ###
-<h2 align="left"><b>Connect Here</b></h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="45" align="center"><span><b> Let's Connect</b></span></h2>
 
 <div align="left">
   <a href="mailto: kr0496066@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
