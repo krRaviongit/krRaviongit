@@ -2,8 +2,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 <br><br>
 
-<h2 align="left">About me</h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Child%20Light%20Skin%20Tone.png" alt="Child Light Skin Tone" width="25" height="25" />
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Child%20Light%20Skin%20Tone.png" alt="Child Light Skin Tone" width="45" align="center"><span><b>About Me</b></span></h2>
 
 <p align="left">My name is Kumar Ravi and I'm a Tech Enthusiast from India.</p>
 
