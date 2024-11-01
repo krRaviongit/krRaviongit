@@ -1,6 +1,6 @@
 <h2 align="left">About me</h2>
 
-<h4 align="left">Hi 👋! My name is <b>Kumar Ravi</b> and I'm a<b>TECH ENTHUSIAST</b>, from India.</h4>
+<h4 align="left">Hi 👋! My name is <b>Kumar Ravi</b> and I'm a <b>TECH ENTHUSIAST</b>, from India.</h4>
 
 ###
 <h2 align="left">GitHub Analytics!</h2>
