@@ -20,8 +20,46 @@
 
 
 
+<style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .heading-container {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        h2 {
+            margin: 0;
+            font-size: 1.8rem;
+            color: #333;
+        }
+        .tools-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .tool-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            font-size: 0.9rem;
+        }
+        .tool-item img {
+            width: 40px;
+            height: 40px;
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"> &nbsp;      <h2>Languages and Tools</h2>
+<div class="heading-container">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="27" alt="Icon">
+  <h2>Languages and Tools</h2>
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
