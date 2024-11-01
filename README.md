@@ -1,6 +1,4 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
-
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 <br><br>
 
@@ -9,7 +7,6 @@
 
 
 ###
-
 <p align="left">My name is Kumar Ravi and I'm a Tech Enthusiast from India.</p>
 
 
