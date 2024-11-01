@@ -4,9 +4,6 @@
 
 <h2 align="left">About me</h2>
 
-
-
-###
 <p align="left">My name is Kumar Ravi and I'm a Tech Enthusiast from India.</p>
 
 
