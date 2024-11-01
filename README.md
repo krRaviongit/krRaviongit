@@ -20,7 +20,8 @@
 
 
 
-###<div style="display: flex; align-items: center; justify-content: flex-start;">
+
+<div style="display: flex; align-items: center; justify-content: flex-start;">
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="27">
     <h2 style="margin-left: 8px;">Languages and Tools</h2>
 </div>
