@@ -53,6 +53,6 @@
 <br><br>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/krRaviongit/krRaviongit/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/krRaviongit/krRaviongit/output/snake.svg" alt="Snake animation" width="1920"/>
 
 ###
