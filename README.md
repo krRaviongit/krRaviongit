@@ -55,4 +55,4 @@
 
 <img src="https://raw.githubusercontent.com/krRaviongit/krRaviongit/output/snake.svg" alt="Snake animation" width="1920"/>
 
-<span><h2><b>Thanks for reading—Keep pushing forward!</b></h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Blue%20Heart.png" alt="Light Blue Heart" width="25" height="25"></span>
+
