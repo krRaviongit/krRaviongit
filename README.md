@@ -3,7 +3,7 @@
 <br><br>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Child%20Light%20Skin%20Tone.png" alt="Child Light Skin Tone" width="45" align="center"><span><b> About Me</b></span></h2>
 
-<h3 align="left">My name is Kumar Ravi and I'm a Tech Enthusiast from India.</h3>
+<h3 align="left">My name is Kumar Ravi, and I'm from India. I am deeply passionate about technology and constantly driven to explore its endless possibilities.</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
