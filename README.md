@@ -55,6 +55,10 @@
 <br><br>
 <br clear="both">
 
+
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+<br><br>
+
 <img src="https://raw.githubusercontent.com/krRaviongit/krRaviongit/output/snake.svg" alt="Snake animation" width="1920"/>
 
 
